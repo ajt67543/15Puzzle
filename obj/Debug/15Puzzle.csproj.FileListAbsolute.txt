@@ -1,0 +1,9 @@
+C:\Users\A.J\Documents\Comp 585\15Puzzle\bin\Debug\15Puzzle.exe.config
+C:\Users\A.J\Documents\Comp 585\15Puzzle\obj\Debug\15Puzzle.csprojResolveAssemblyReference.cache
+C:\Users\A.J\Documents\Comp 585\15Puzzle\obj\Debug\_15Puzzle.Properties.Resources.resources
+C:\Users\A.J\Documents\Comp 585\15Puzzle\obj\Debug\15Puzzle.csproj.GenerateResource.Cache
+C:\Users\A.J\Documents\Comp 585\15Puzzle\bin\Debug\15Puzzle.exe
+C:\Users\A.J\Documents\Comp 585\15Puzzle\bin\Debug\15Puzzle.pdb
+C:\Users\A.J\Documents\Comp 585\15Puzzle\obj\Debug\15Puzzle.exe
+C:\Users\A.J\Documents\Comp 585\15Puzzle\obj\Debug\15Puzzle.pdb
+C:\Users\A.J\Documents\Comp 585\15Puzzle\obj\Debug\_15Puzzle.PuzzleForm.resources
